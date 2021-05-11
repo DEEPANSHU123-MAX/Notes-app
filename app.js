@@ -1,7 +1,7 @@
 
 
 
-// const getnotes =require('./notes')
+
 
 // // console.log(add(3,6));
 
