@@ -3,7 +3,7 @@
 
 
 
-// // console.log(add(3,6));
+
 
 // console.log(getnotes());
 
